@@ -83,8 +83,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-body {
+#intro {
   background-color: cadetblue;
+  font-family: Arial;
+  text-align: center;
+}
+img {
+  border-radius: 20px;
+  width:300px;
+  heigh: 200px;
 }
 /* ==========================================================================
    Helper classes
